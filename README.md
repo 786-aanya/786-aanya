@@ -1,0 +1,13 @@
+![50% off](https://github.com/786-aanya/786-aanya/assets/148055804/275b956b-18aa-4322-b89f-ef2be7336572)
+![happy](https://github.com/786-aanya/786-aanya/assets/148055804/8b4d2c31-f4bc-48dc-9825-6b7d707707a0)
+
+h- 👋 Hi, I’m @786-aanya
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+786-aanya/786-aanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
